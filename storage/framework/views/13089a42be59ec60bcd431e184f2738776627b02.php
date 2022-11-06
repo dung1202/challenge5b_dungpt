@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Dell\Desktop\viettel\challenge1.2-bc-main\resources\views/footer.blade.php ENDPATH**/ ?>
